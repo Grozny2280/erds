@@ -1,5 +1,5 @@
 import os
 
-BOT_TOKEN = os.environ["BOT_TOKEN"]
+BOT_TOKEN = os.environ["8795910109:AAEZx7vzWBTfzbKELx9x7HSrQLgI3suuosI"]
 REMINDER_HOUR = 6   # 06:00 UTC = 09:00 МСК
 REMINDER_MIN  = 0
